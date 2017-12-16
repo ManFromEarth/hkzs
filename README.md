@@ -3,7 +3,7 @@ we重邮
 ##### 官网：https://we.cqu.pt \ http://we.cqupt.edu.cn
 
 
-##### <img src="https://cloud.githubusercontent.com/assets/11243798/21806457/5fe63014-d774-11e6-94bd-6dc1b3cc2270.jpg" alt="二维码" width="50%">
+##### <img src="https://cloud.githubusercontent.com/assets/11243798/21806457/5fe63014-d774-11e6-94bd-6dc1b3cc2270.jpg" alt="二维码" width="20%">
 
 
 #### 项目截图
